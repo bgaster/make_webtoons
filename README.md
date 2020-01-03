@@ -14,7 +14,7 @@ You will will need Python 2. (We use Python 2.7 on MacOS.)
 
 ## Building a Toon
 
-In the directory **site**, you will notice a directory called **images**, which is where your JPEGs need to be placed. (Remove the ones there otherwise things might get strange :-).)
+In the directory **site**, you will notice a directory called **images**, which is where your JPEGs need to be placed. (Remove the ones there, otherwise things might get strange :-).)
 
 To build the toon, simply ```cd site``` and run the command:
 
@@ -24,7 +24,7 @@ python tools/make_webtoon.py > index.html
 
 This creates ```index.html```.
 
-You can now simply open it in your favorite browser. As the kids wanted to share there toons with each other and we already have Python setup they use the built in web server to share there creations, which is as simple as running the following command in the directory with ```index.html```:
+You can now simply open it in your favorite browser. As the kids wanted to share their toons with each other and we already have Python setup they use the built in web server to share there creations, which is as simple as running the following command in the directory with ```index.html```:
 
 ```
 python -m SimpleHTTPServer
