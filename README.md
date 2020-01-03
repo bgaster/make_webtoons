@@ -39,3 +39,6 @@ python site\tools\ipaddress.py
 and type the outputted HTTP address into a browser on your local network. 
 
 Try opening it on a phone to get the full webtoon experience :-)
+
+Finally, you can, of course, modify the HTML, change the title is a good place to start, and custom CSS is waiting 
+to be added in the file ```css/toon.css```.
