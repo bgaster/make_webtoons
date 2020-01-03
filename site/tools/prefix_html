@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>test_full</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script src="./js/webtoon.js"></script>
+
+<style>
+	table.center {
+		margin-left:auto; 
+		margin-right:auto;
+	  }
+</style>
+
+</head>
+<body bgcolor="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<!-- Save for Web Slices (test_full.jpg) -->
+<table class="center" id="Table_01" width="750" height="1500" border="0" cellpadding="0" cellspacing="0">
